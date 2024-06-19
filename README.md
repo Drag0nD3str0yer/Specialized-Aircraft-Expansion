@@ -22,6 +22,7 @@ Most if not all existing content in the mod will likely recieve updates fixing b
  
  ## Contributors from the Community
  
+ * Spike88
  * Eclipse
  * SuicidalInsanity
  * Timmy
